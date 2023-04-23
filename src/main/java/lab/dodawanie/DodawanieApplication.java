@@ -10,7 +10,9 @@ public class DodawanieApplication {
 		SpringApplication.run(DodawanieApplication.class, args);
 	}
 	public int added(int a, int b) {
-		return a + b;
+
+		return a + b ;
+
 	}
 
 }
